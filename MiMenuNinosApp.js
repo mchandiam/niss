@@ -1,0 +1,1 @@
+// Código del prototipo insertado aquí posteriormente
